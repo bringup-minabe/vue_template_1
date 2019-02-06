@@ -1,4 +1,4 @@
-# my-project
+# vue-templte-1
 
 ## Project setup
 ```
